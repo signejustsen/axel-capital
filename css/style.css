@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    width: 100%;
+}
+
+body{
+    h3{color: white;}
+
+}
+footer{background-color: black;
+    font-family:'Times New Roman', Times, serif;
+    max-width:  50rem;
+}
+
+footer h2{
+    font-size: 40px;
+}
+
+img {
+    width: 50rem;
+}
+
+h1 span{
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+h1{
+    font-size: 80px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
